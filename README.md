@@ -8,7 +8,7 @@
 2. pip install beautifulsoup4 pandas requests
 
 ## Usage
-1. You can view JP-TH dict in Data/JP folder
+1. You can view TH-JP dict in Data/TH folder
 2. You can view EN-JP dict in Data/EN folder
 3. OR you can just download the source and get it yourself
 
